@@ -1,0 +1,16 @@
+#child_1 {
+  background: blue;
+}
+#child_2 {
+  background: green;
+}
+#child_3 {
+  background: red;
+}
+#child_4 {
+  background: white;
+}
+
+#border {
+  border: 2px solid white;
+}
